@@ -1,0 +1,2 @@
+﻿using System.Reflection; using System.Runtime.InteropServices;
+[assembly: AssemblyTitle("AshkanLMS")][assembly: AssemblyDescription("Modern Learning Management System")][assembly: AssemblyCompany("Ashkan")][assembly: AssemblyProduct("AshkanLMS")][assembly: ComVisible(false)][assembly: Guid("e838a2df-8b0f-4db7-91e4-45e75001ab90")][assembly: AssemblyVersion("1.0.0.0")][assembly: AssemblyFileVersion("1.0.0.0")]

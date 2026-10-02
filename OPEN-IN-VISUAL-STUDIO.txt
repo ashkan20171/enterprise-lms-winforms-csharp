@@ -1,0 +1,13 @@
+AshkanLMS - Visual Studio instructions
+=====================================
+1. Install Visual Studio 2022 with workload: .NET desktop development.
+2. In Visual Studio Installer > Individual components, ensure .NET Framework 4.8 SDK and .NET Framework 4.8 targeting pack are installed.
+3. Open AshkanLMS.sln (do not open only the inner folder).
+4. Build > Rebuild Solution.
+5. Run with F5.
+
+Demo accounts:
+admin / 1234
+instructor / 1234
+
+This package contains a corrected classic WinForms .NET Framework 4.8 project file.
